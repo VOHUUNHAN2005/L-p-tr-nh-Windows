@@ -1,0 +1,70 @@
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.csproj.AssemblyReference.cache
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.GUI.frm_TrangChuAdmin.resources
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.GUI.frm_TrangChuStaff.resources
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.Properties.Resources.resources
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.csproj.GenerateResource.cache
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.csproj.CoreCompileInputs.cache
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\qlcuahangdochoi.exe.config
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\qlcuahangdochoi.exe
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\qlcuahangdochoi.pdb
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.exe
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.pdb
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.GUI.frm_NhanVien.resources
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.GUI.frm_SanPham.resources
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.GUI.frm_dangnhap.resources
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.GUI.frm_NhapHang.resources
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.GUI.frm_NhaCungCap.resources
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.GUI.frm_HoaDon.resources
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\EPPlus.dll
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\EPPlus.Interfaces.dll
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.Buffers.dll
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.Memory.dll
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.Numerics.Vectors.dll
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\EPPlus.xml
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.Buffers.xml
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.Memory.xml
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.Numerics.Vectors.xml
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahan.D9B6AFCC.Up2Date
+D:\Lap Tring Windows va do an\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.GUI.frm_DoanhThu.resources
+D:\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\qlcuahangdochoi.exe.config
+D:\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\qlcuahangdochoi.exe
+D:\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\qlcuahangdochoi.pdb
+D:\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\EPPlus.dll
+D:\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\EPPlus.Interfaces.dll
+D:\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.Buffers.dll
+D:\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.ComponentModel.Annotations.dll
+D:\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.Memory.dll
+D:\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.Numerics.Vectors.dll
+D:\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\EPPlus.xml
+D:\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.Buffers.xml
+D:\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.Memory.xml
+D:\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.Numerics.Vectors.xml
+D:\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\do_an\qlcuahang\qlcuahangdochoi\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.csproj.AssemblyReference.cache
+D:\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.GUI.frm_dangnhap.resources
+D:\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.GUI.frm_DoanhThu.resources
+D:\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.GUI.frm_HoaDon.resources
+D:\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.GUI.frm_NhaCungCap.resources
+D:\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.GUI.frm_NhanVien.resources
+D:\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.GUI.frm_NhapHang.resources
+D:\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.GUI.frm_SanPham.resources
+D:\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.GUI.frm_TrangChuAdmin.resources
+D:\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.GUI.frm_TrangChuStaff.resources
+D:\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.Properties.Resources.resources
+D:\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.csproj.GenerateResource.cache
+D:\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.csproj.CoreCompileInputs.cache
+D:\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahan.D9B6AFCC.Up2Date
+D:\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.exe
+D:\do_an\qlcuahang\qlcuahangdochoi\obj\Debug\qlcuahangdochoi.pdb

@@ -1,0 +1,709 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|d:\\lap tring windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\dao\\doanhthudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\dao\\doanhthudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\gui\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\gui\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\bus\\doanhthubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\bus\\doanhthubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\gui\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\gui\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\dto\\doanhthudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\dto\\doanhthudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\gui\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\gui\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\gui\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\gui\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\gui\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\gui\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\gui\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\gui\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\gui\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\gui\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\gui\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\gui\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\gui\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\gui\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\dao\\dangnhapdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\dao\\dangnhapdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\dao\\cthdnhapdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\dao\\cthdnhapdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\dao\\nhaphangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\dao\\nhaphangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\dto\\dangnhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\dto\\dangnhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\gui\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\gui\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\gui\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\gui\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\gui\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\gui\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\dao\\hoadondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\dao\\hoadondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\dto\\hoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\dto\\hoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\bus\\cthdnhapbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\bus\\cthdnhapbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\bus\\dangnhapbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\bus\\dangnhapbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\bus\\hoadonbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\bus\\hoadonbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\dao\\nhacungcapdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\dao\\nhacungcapdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\dao\\sanphamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\dao\\sanphamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\dto\\nhacungcapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\dto\\nhacungcapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\dto\\nhaphangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\dto\\nhaphangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\dto\\sanphamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\dto\\sanphamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\bus\\cthdbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\bus\\cthdbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\bus\\nhaphangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\bus\\nhaphangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\gui\\hoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\gui\\hoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\dao\\cthddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\dao\\cthddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\gui\\doanhthu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\gui\\doanhthu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\gui\\sanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\gui\\sanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\gui\\nhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\gui\\nhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\bus\\sanphambus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\bus\\sanphambus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\bus\\nhacungcapbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740DCB0C-4C5D-4831-825E-E26993791B5B}|qlcuahangdochoi\\qlcuahangdochoi.csproj|solutionrelative:qlcuahangdochoi\\bus\\nhacungcapbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NhapHang.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\NhapHang.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\GUI\\NhapHang.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\NhapHang.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\GUI\\NhapHang.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAewDoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T05:26:00.805Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "doanhthu.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\doanhthu.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\GUI\\doanhthu.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\doanhthu.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\GUI\\doanhthu.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAvwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:43:38.559Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "doanhthu.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\doanhthu.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\GUI\\doanhthu.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\doanhthu.cs [Design]",
+              "RelativeToolTip": "qlcuahangdochoi\\GUI\\doanhthu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:03:44.276Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoanhThuBUS.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\BUS\\DoanhThuBUS.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\BUS\\DoanhThuBUS.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\BUS\\DoanhThuBUS.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\BUS\\DoanhThuBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:42:28.049Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoanhThuDTO.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DTO\\DoanhThuDTO.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\DTO\\DoanhThuDTO.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DTO\\DoanhThuDTO.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\DTO\\DoanhThuDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:52:59.429Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoanhThuDAO.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DAO\\DoanhThuDAO.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\DAO\\DoanhThuDAO.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DAO\\DoanhThuDAO.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\DAO\\DoanhThuDAO.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:52:59.838Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\HoaDon.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\GUI\\HoaDon.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\HoaDon.cs [Design]",
+              "RelativeToolTip": "qlcuahangdochoi\\GUI\\HoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T22:45:11.239Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NhapHang.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\NhapHang.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\GUI\\NhapHang.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\NhapHang.cs [Design]",
+              "RelativeToolTip": "qlcuahangdochoi\\GUI\\NhapHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T05:28:37.552Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\HoaDon.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\GUI\\HoaDon.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\HoaDon.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\GUI\\HoaDon.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAewBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T03:18:49.838Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhaCungCap.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\NhaCungCap.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\GUI\\NhaCungCap.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\NhaCungCap.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\GUI\\NhaCungCap.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAIwN0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:54:24.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\NhanVien.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\GUI\\NhanVien.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\NhanVien.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\GUI\\NhanVien.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAMwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T03:33:34.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SanPham.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\SanPham.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\GUI\\SanPham.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\SanPham.cs [Design]",
+              "RelativeToolTip": "qlcuahangdochoi\\GUI\\SanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T00:25:46.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dangnhap.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\dangnhap.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\GUI\\dangnhap.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\dangnhap.cs [Design]",
+              "RelativeToolTip": "qlcuahangdochoi\\GUI\\dangnhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:27:50.954Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\NhanVien.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\GUI\\NhanVien.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\NhanVien.cs [Design]",
+              "RelativeToolTip": "qlcuahangdochoi\\GUI\\NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T03:30:55.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NhaCungCap.cs [Design]",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\NhaCungCap.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\GUI\\NhaCungCap.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\NhaCungCap.cs [Design]",
+              "RelativeToolTip": "qlcuahangdochoi\\GUI\\NhaCungCap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T04:34:17.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DangNhapDAO.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DAO\\DangNhapDAO.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\DAO\\DangNhapDAO.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DAO\\DangNhapDAO.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\DAO\\DangNhapDAO.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:43:58.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\SanPham.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\GUI\\SanPham.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\SanPham.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\GUI\\SanPham.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAIAxwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T00:27:24.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CTHDNhapDAO.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DAO\\CTHDNhapDAO.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\DAO\\CTHDNhapDAO.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DAO\\CTHDNhapDAO.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\DAO\\CTHDNhapDAO.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:45:21.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NhapHangDAO.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DAO\\NhapHangDAO.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\DAO\\NhapHangDAO.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DAO\\NhapHangDAO.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\DAO\\NhapHangDAO.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:43:08.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DangNhapDTO.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DTO\\DangNhapDTO.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\DTO\\DangNhapDTO.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DTO\\DangNhapDTO.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\DTO\\DangNhapDTO.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA4wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:43:55.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HoaDonDAO.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DAO\\HoaDonDAO.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\DAO\\HoaDonDAO.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DAO\\HoaDonDAO.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\DAO\\HoaDonDAO.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowBUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:22:13.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DangNhapBUS.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\BUS\\DangNhapBUS.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\BUS\\DangNhapBUS.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\BUS\\DangNhapBUS.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\BUS\\DangNhapBUS.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:42:39.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HoaDonBUS.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\BUS\\HoaDonBUS.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\BUS\\HoaDonBUS.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\BUS\\HoaDonBUS.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\BUS\\HoaDonBUS.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T03:27:38.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NhaCungCapDAO.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DAO\\NhaCungCapDAO.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\DAO\\NhaCungCapDAO.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DAO\\NhaCungCapDAO.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\DAO\\NhaCungCapDAO.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:09:46.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dangnhap.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\dangnhap.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\GUI\\dangnhap.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\dangnhap.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\GUI\\dangnhap.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:27:53.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HoaDonDTO.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DTO\\HoaDonDTO.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\DTO\\HoaDonDTO.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DTO\\HoaDonDTO.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\DTO\\HoaDonDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:14:06.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SanPhamDAO.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DAO\\SanPhamDAO.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\DAO\\SanPhamDAO.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DAO\\SanPhamDAO.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\DAO\\SanPhamDAO.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAASwBcAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:49:41.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CTHDNhapBUS.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\BUS\\CTHDNhapBUS.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\BUS\\CTHDNhapBUS.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\BUS\\CTHDNhapBUS.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\BUS\\CTHDNhapBUS.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:02:51.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NhaCungCapDTO.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DTO\\NhaCungCapDTO.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\DTO\\NhaCungCapDTO.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DTO\\NhaCungCapDTO.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\DTO\\NhaCungCapDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T05:55:48.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NhapHangDTO.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DTO\\NhapHangDTO.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\DTO\\NhapHangDTO.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DTO\\NhapHangDTO.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\DTO\\NhapHangDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T05:28:21.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SanPhamDTO.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DTO\\SanPhamDTO.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\DTO\\SanPhamDTO.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DTO\\SanPhamDTO.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\DTO\\SanPhamDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:08:41.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CTHDBUS.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\BUS\\CTHDBUS.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\BUS\\CTHDBUS.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\BUS\\CTHDBUS.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\BUS\\CTHDBUS.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA0wC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:14:43.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NhapHangBUS.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\BUS\\NhapHangBUS.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\BUS\\NhapHangBUS.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\BUS\\NhapHangBUS.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\BUS\\NhapHangBUS.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:43:53.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CTHDDAO.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DAO\\CTHDDAO.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\DAO\\CTHDDAO.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DAO\\CTHDDAO.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\DAO\\CTHDDAO.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:23:03.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HoaDon.Designer.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\HoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\GUI\\HoaDon.Designer.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\HoaDon.Designer.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\GUI\\HoaDon.Designer.cs",
+              "ViewState": "AgIAAO4BAAAAAAAAAAD4v/cBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T04:01:13.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SanPham.Designer.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\SanPham.Designer.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\GUI\\SanPham.Designer.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\SanPham.Designer.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\GUI\\SanPham.Designer.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAawP8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:22:34.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "doanhthu.Designer.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\doanhthu.Designer.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\GUI\\doanhthu.Designer.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\doanhthu.Designer.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\GUI\\doanhthu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:52:59.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "NhanVien.Designer.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\NhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\GUI\\NhanVien.Designer.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\GUI\\NhanVien.Designer.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\GUI\\NhanVien.Designer.cs",
+              "ViewState": "AgIAAEkBAAAAAAAAAAApwF8BAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:17:47.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\DAO\\DataProvider.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\DAO\\DataProvider.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:05:59.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SanPhamBUS.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\BUS\\SanPhamBUS.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\BUS\\SanPhamBUS.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\BUS\\SanPhamBUS.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\BUS\\SanPhamBUS.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:18:03.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "NhaCungCapBUS.cs",
+              "DocumentMoniker": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\BUS\\NhaCungCapBUS.cs",
+              "RelativeDocumentMoniker": "qlcuahangdochoi\\BUS\\NhaCungCapBUS.cs",
+              "ToolTip": "D:\\Lap Tring Windows va do an\\do_an\\qlcuahang\\qlcuahangdochoi\\BUS\\NhaCungCapBUS.cs",
+              "RelativeToolTip": "qlcuahangdochoi\\BUS\\NhaCungCapBUS.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:18:08.182Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 287,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 623,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
